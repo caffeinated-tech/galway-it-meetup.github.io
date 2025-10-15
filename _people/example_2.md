@@ -2,6 +2,7 @@
 layout: person
 name:  "Clippy"
 tags: [member]
+image: /images/people/clippy.png
 quote: "It looks like you are trying to repair your device, need some help?"
 ---
 
